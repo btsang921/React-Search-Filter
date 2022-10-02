@@ -1,6 +1,6 @@
 # Exercise 5: React Search/Filter application
 
-## Due Date: Wednesday June 30th, 2021 11:59 PM
+
 ## Objectives: To become aquainted with React components, state, and JSX, practice array functions (filter, map, reduce, etc..)
 
 ## Specifications/Requirements
